@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "vic20 memory")(type KiCad)(uri "${KIPRJMOD}/vic20 memory.pretty")(options "")(descr ""))
+)

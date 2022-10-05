@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name vic20edge)(type Legacy)(uri ${KIPRJMOD}/vic20edge.lib)(options "")(descr ""))
+  (lib (name vic20-memory-rescue)(type Legacy)(uri "${KIPRJMOD}/vic20 memory-rescue.lib")(options "")(descr ""))
+)
